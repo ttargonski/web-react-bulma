@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6560095b2a75d0ce9511a71df84a7f50",
+    "revision": "04151f5e6ab4a6f59fca284a345dba05",
     "url": "/web-react-bulma/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-react-bulma/static/css/2.d2e2750e.chunk.css"
   },
   {
-    "revision": "41a17289c89877dd8e20",
+    "revision": "6c9333e5b6cc3dbb1254",
     "url": "/web-react-bulma/static/css/main.3985727d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-react-bulma/static/js/2.a051439a.chunk.js.LICENSE"
   },
   {
-    "revision": "41a17289c89877dd8e20",
-    "url": "/web-react-bulma/static/js/main.12c6eb82.chunk.js"
+    "revision": "6c9333e5b6cc3dbb1254",
+    "url": "/web-react-bulma/static/js/main.a1f3fa2a.chunk.js"
   },
   {
     "revision": "6390d6925981aa1c6895",
