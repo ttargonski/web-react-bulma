@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/web-react-bulma/static/css/main.3985727d.chunk.css",
+    "main.js": "/web-react-bulma/static/js/main.926a3f89.chunk.js",
+    "main.js.map": "/web-react-bulma/static/js/main.926a3f89.chunk.js.map",
+    "runtime-main.js": "/web-react-bulma/static/js/runtime-main.4da40c7b.js",
+    "runtime-main.js.map": "/web-react-bulma/static/js/runtime-main.4da40c7b.js.map",
+    "static/css/2.d2e2750e.chunk.css": "/web-react-bulma/static/css/2.d2e2750e.chunk.css",
+    "static/js/2.a051439a.chunk.js": "/web-react-bulma/static/js/2.a051439a.chunk.js",
+    "static/js/2.a051439a.chunk.js.map": "/web-react-bulma/static/js/2.a051439a.chunk.js.map",
+    "index.html": "/web-react-bulma/index.html",
+    "precache-manifest.8a23f9a07f935951cc3508a89afd6d1e.js": "/web-react-bulma/precache-manifest.8a23f9a07f935951cc3508a89afd6d1e.js",
+    "service-worker.js": "/web-react-bulma/service-worker.js",
+    "static/css/2.d2e2750e.chunk.css.map": "/web-react-bulma/static/css/2.d2e2750e.chunk.css.map",
+    "static/css/main.3985727d.chunk.css.map": "/web-react-bulma/static/css/main.3985727d.chunk.css.map",
+    "static/js/2.a051439a.chunk.js.LICENSE": "/web-react-bulma/static/js/2.a051439a.chunk.js.LICENSE",
+    "static/media/App.css": "/web-react-bulma/static/media/company.432fec8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da40c7b.js",
+    "static/css/2.d2e2750e.chunk.css",
+    "static/js/2.a051439a.chunk.js",
+    "static/css/main.3985727d.chunk.css",
+    "static/js/main.926a3f89.chunk.js"
+  ]
+}
