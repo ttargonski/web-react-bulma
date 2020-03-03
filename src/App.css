@@ -1,38 +1,87 @@
-.App {
-  text-align: center;
+* {
+  font-family: "poppins", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+#navbar {
+  background-color: #383838;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#nav-item {
+  color: #b2b2b2;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#logo {
+  color: #fff;
+}
+
+#hero {
+  background: url("./img/clouds-1.jpg");
+  background-position: bottom;
+  background-size: cover;
+}
+
+#hero div h1 {
+  color: #383838;
+}
+
+#hero div h2 {
+  color: #383838;
+}
+
+#footer {
+  background-color: #00c4a7;
   color: white;
+  flex-direction: row;
+  padding: 50px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
-.App-link {
-  color: #61dafb;
+#fb {
+  background: url("./img/fb.png");
+  background-size: cover;
+  padding: 15px;
+  margin-right: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#in {
+  background: url("./img/in.png");
+  background-size: cover;
+  padding: 15px;
+}
+
+#social {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+#cog {
+  height: 60px;
+  width: 60px;
+  background: url("./img/cogs.png");
+  background-size: cover;
+  margin: 10px;
+}
+
+#company {
+  min-height: 250px;
+  background: url("./img/company.jpg");
+  background-size: cover;
+  background-position: bottom;
+}
+
+.columns {
+  flex-wrap: wrap;
+}
+
+.subtitle:first-letter {
+  text-transform: uppercase;
+}
+
+.answer:first-letter {
+  text-transform: uppercase;
 }
