@@ -1,6 +1,6 @@
 # React Router
 
-Responsive website in React Router with using css framework Bulma.
+Responsive website in React Router with using css framework Bulma. Section FAQ based on Jsonplaceholder API.
 
 Go **[here](https://ttargonski.github.io/web-react-bulma)** for live demo.
 

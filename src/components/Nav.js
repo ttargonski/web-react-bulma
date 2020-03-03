@@ -30,7 +30,7 @@ class Nav extends Component {
         aria-label="main navigation"
       >
         <div className="navbar-brand">
-          <Link to="/" id="logo" className="navbar-item" href="#">
+          <Link to="/home" id="logo" className="navbar-item" href="#">
             Company<strong>Name</strong>
           </Link>
           <a
@@ -50,7 +50,7 @@ class Nav extends Component {
         <div className={"navbar-menu " + this.state.navbar} id="navMenu">
           <div className="navbar-end">
             <div className="navbar-start">
-              <Link to="/" id="nav-item" className="navbar-item">
+              <Link to="/home" id="nav-item" className="navbar-item">
                 Home
               </Link>
               <Link to="/about" id="nav-item" className="navbar-item">
